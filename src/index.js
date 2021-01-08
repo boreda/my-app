@@ -13,6 +13,7 @@ import Form from './components/Form'
 import TravelForm from './components/TravelForm'
 import Capstone from './components/Capstone'
 import Practise from'./components/Practise'
+import SlotMachine from'./components/SlotMachine'
 
 ReactDOM.render(<Practise />, document.getElementById('root'));
 
