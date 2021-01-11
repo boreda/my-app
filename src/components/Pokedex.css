@@ -1,0 +1,13 @@
+.Pokedex {
+    display: grid;
+    grid-template: 280px / 150px 150px 150px 150px;
+    grid-gap: 20px;
+    background-color: rgba(255, 255, 255, 0.72);
+    text-align: center;
+}
+
+.Pokedex-win{
+    font-size: large;
+    font-weight: 200;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
