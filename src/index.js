@@ -17,6 +17,7 @@ import SlotMachine from'./components/SlotMachine'
 import fruits from './components/fruits'
 import {choice, remove} from './components/helpers'
 import Pokegame from './components/Pokegame'
+import Clicker from './components/Clicker'
 
 // let fruitComponent = choice(fruits);
 // console.log(fruitComponent);
@@ -25,4 +26,4 @@ import Pokegame from './components/Pokegame'
 // console.log(remaining)
 // ReactDOM.render(<fruits />, document.getElementById('root'));
 
-ReactDOM.render(<Pokegame />, document.getElementById('root'));
+ReactDOM.render(<Clicker />, document.getElementById('root'));
